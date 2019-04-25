@@ -1,0 +1,15 @@
+# 2016-Campaign-Data-Analysis
+
+File 1: Data Cleaning and Analytics
+
+Cleaned the data, deleted all retweets, kept only hashtags and handles.
+Removed users that have less than 20 tweets.
+
+Data Analysis by Visualization
+
+Task 2.1: Plot the number of the tweets against top-30 locations with the most tweets.
+Task 2.2: Show the respective tweet word clouds of the top-3 locations with the most tweets.
+Task 2.3: Plot the number of the tweets against top-50 users with the most tweets.
+Task 2.4: Show the respective tweet word clouds of the top-3 users with the most tweets.
+Task 2.5: Plot the occurrences of the top-100 most frequent hashtags/handles in the cleaned data
+Task 2.6: Show the tweet word cloud of all the hashtags/handles in the cleaned data
