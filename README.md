@@ -18,3 +18,11 @@ Data Analysis by Visualization
 5. Plotted the occurrences of the top-100 most frequent hashtags/handles in the cleaned data
 
 6. Showed the tweet word cloud of all the hashtags/handles in the cleaned data
+
+File 2: Clustering
+
+Merged ground truth class.
+
+Ran k-means algorithm.
+
+Computed confusion matrix, precision, recall and F-measure for K-means and agglomerative clustering. 
