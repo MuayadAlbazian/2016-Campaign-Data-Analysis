@@ -26,3 +26,17 @@ Merged ground truth class.
 Ran k-means algorithm.
 
 Computed confusion matrix, precision, recall and F-measure for K-means and agglomerative clustering. 
+
+File 3: Classification
+
+Removed all retweets and all users that have less than 20 tweets. 
+
+use train_test_split() to split data into training and test sets, 20 percent of records go to test set.
+
+Trained Decision Tree, SVM, Logistic Regression, and Neural Networks.
+
+Trained K-NN model, performed parameter tuning.
+
+Applyed 5-fold cross validation and used grid search to find the best K value for K-NN model.
+
+Computed confusion matrix, precision, recall and F-measure.
